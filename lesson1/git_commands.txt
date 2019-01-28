@@ -1,0 +1,6 @@
+git init 
+git remote add origin https://github.com/tajbakhshnasim/soloLearn.git
+git status: show status
+git add . : add files
+git commit -m "message" 
+git push -u origin master
