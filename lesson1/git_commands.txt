@@ -4,3 +4,4 @@ git status: show status
 git add . : add files
 git commit -m "message" 
 git push -u origin master
+git log
