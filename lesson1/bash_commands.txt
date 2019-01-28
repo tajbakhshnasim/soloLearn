@@ -1,0 +1,16 @@
+1-ls: Show a list of contents.
+	ls -a : show hidden file
+
+2-mkdir: Create a directory/folder
+	Exp:	mkdir myfolder
+		mkdir havij goje
+3-cd: goes to the directory/folder
+	Exp	cd havij
+		cd .. : goes to previous directory
+
+4-gedit: open an editor
+
+5-pwd: show the current directory
+
+6-cat: show the data in the file
+
