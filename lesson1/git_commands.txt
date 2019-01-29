@@ -1,7 +1,13 @@
 git init 
 git remote add origin https://github.com/tajbakhshnasim/soloLearn.git
+
+git config -global user.name "tajbakhshnasim"
+git config -global user.email tajbaksh.nasim@gmail.com
+
 git status: show status
 git add . : add files
 git commit -m "message" 
 git push -u origin master
 git log
+git clone https://github.com/tajbakhshnasim/soloLearn.git
+
